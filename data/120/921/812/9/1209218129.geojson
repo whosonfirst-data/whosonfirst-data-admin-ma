@@ -59,7 +59,7 @@
         "wk:page":"Derdara"
     },
     "wof:country":"MA",
-    "wof:geomhash":"7230be9cc17e3a7b79b74a80e55a09d4",
+    "wof:geomhash":"884a7efc71f1c1d5f3ce8a653f47b2d3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -85,5 +85,5 @@
     -5.29015,
     35.11040999999999
 ],
-  "geometry": {"coordinates":[-5.29015,35.11040999999999],"type":"Point"}
+  "geometry": {"coordinates":[-5.29015,35.11041],"type":"Point"}
 }

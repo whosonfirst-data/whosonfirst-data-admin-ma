@@ -52,7 +52,7 @@
         "wk:page":"Dar_Gueddari"
     },
     "wof:country":"MA",
-    "wof:geomhash":"0388bf7cb2c9bc6530d79599d7ba1eca",
+    "wof:geomhash":"be1a6e6deed8b9b710b08f0f0ef0074f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,5 +78,5 @@
     -6.09099,
     34.42120999999999
 ],
-  "geometry": {"coordinates":[-6.09099,34.42120999999999],"type":"Point"}
+  "geometry": {"coordinates":[-6.09099,34.42121],"type":"Point"}
 }

@@ -62,7 +62,7 @@
         "wk:page":"Smimou"
     },
     "wof:country":"MA",
-    "wof:geomhash":"3bfd75943835dae5f0e7298dfd7f2d1d",
+    "wof:geomhash":"8e24bd49ccc73154eab72c29606960e1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,5 +88,5 @@
     -9.70863,
     31.21014000000001
 ],
-  "geometry": {"coordinates":[-9.70863,31.21014000000001],"type":"Point"}
+  "geometry": {"coordinates":[-9.70863,31.21014],"type":"Point"}
 }

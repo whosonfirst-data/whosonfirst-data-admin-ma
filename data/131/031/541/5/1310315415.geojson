@@ -50,7 +50,7 @@
         "wk:page":"Tamesna%2C_Rabat"
     },
     "wof:country":"MA",
-    "wof:geomhash":"e5968da144caa0a7491d6b92d6ee53c9",
+    "wof:geomhash":"f4e71984237ce9a8ad7ac680521bf534",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,5 +76,5 @@
     -6.91658,
     33.81809000000001
 ],
-  "geometry": {"coordinates":[-6.91658,33.81809000000001],"type":"Point"}
+  "geometry": {"coordinates":[-6.91658,33.81809],"type":"Point"}
 }

@@ -77,7 +77,7 @@
         "wk:page":"Skoura"
     },
     "wof:country":"MA",
-    "wof:geomhash":"d1e951171513aeb3df1b9feb9018aa73",
+    "wof:geomhash":"8371e0f9d1146afc1fc01c12a592a2b0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -103,5 +103,5 @@
     -6.5525,
     31.06262000000001
 ],
-  "geometry": {"coordinates":[-6.5525,31.06262000000001],"type":"Point"}
+  "geometry": {"coordinates":[-6.5525,31.06262],"type":"Point"}
 }

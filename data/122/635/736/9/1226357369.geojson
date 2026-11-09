@@ -62,7 +62,7 @@
         "wk:page":"Chaibate"
     },
     "wof:country":"MA",
-    "wof:geomhash":"5a354393e8007965a627c8d671f2658c",
+    "wof:geomhash":"8513e955441067c28314fc7a9576d260",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,5 +88,5 @@
     -7.84365,
     31.60137000000001
 ],
-  "geometry": {"coordinates":[-7.84365,31.60137000000001],"type":"Point"}
+  "geometry": {"coordinates":[-7.84365,31.60137],"type":"Point"}
 }

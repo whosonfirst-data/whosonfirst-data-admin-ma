@@ -54,7 +54,7 @@
         "wk:page":"Serghina"
     },
     "wof:country":"MA",
-    "wof:geomhash":"8bc41dfc2aee62f8a3b9a987bd513d02",
+    "wof:geomhash":"581e14ee5091454b4414fecd30019740",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,5 +80,5 @@
     -4.81856,
     34.80654000000001
 ],
-  "geometry": {"coordinates":[-4.81856,34.80654000000001],"type":"Point"}
+  "geometry": {"coordinates":[-4.81856,34.80654],"type":"Point"}
 }

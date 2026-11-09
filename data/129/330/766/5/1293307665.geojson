@@ -63,7 +63,7 @@
         "wk:page":"Tassift"
     },
     "wof:country":"MA",
-    "wof:geomhash":"63f9dc6d860391aee58f42293e9c1770",
+    "wof:geomhash":"c5133759c39234ac4f0bc01f0d38e93b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -89,5 +89,5 @@
     -5.22553,
     35.51002000000001
 ],
-  "geometry": {"coordinates":[-5.22553,35.51002000000001],"type":"Point"}
+  "geometry": {"coordinates":[-5.22553,35.51002],"type":"Point"}
 }

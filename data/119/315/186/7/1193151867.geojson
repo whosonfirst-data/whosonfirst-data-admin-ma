@@ -62,7 +62,7 @@
         "wk:page":"Khemis_Sahel"
     },
     "wof:country":"MA",
-    "wof:geomhash":"a40144003937b71090c068c31c1462d9",
+    "wof:geomhash":"c81e61b3648d6b3ab2d69b4142691374",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,5 +88,5 @@
     -6.0796,
     35.25344000000001
 ],
-  "geometry": {"coordinates":[-6.0796,35.25344000000001],"type":"Point"}
+  "geometry": {"coordinates":[-6.0796,35.25344],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Tazouta"
     },
     "wof:country":"MA",
-    "wof:geomhash":"bb3f22127f5fae2d450847e1f4f469fe",
+    "wof:geomhash":"440a3c1289fb3c76fd992bda7a8b7db3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,5 +93,5 @@
     -4.63392,
     33.66990999999999
 ],
-  "geometry": {"coordinates":[-4.63392,33.66990999999999],"type":"Point"}
+  "geometry": {"coordinates":[-4.63392,33.66991],"type":"Point"}
 }

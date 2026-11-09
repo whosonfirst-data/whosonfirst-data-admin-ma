@@ -52,7 +52,7 @@
         "wk:page":"Tissaf"
     },
     "wof:country":"MA",
-    "wof:geomhash":"e995eafecede82bb2ff3d10ae1c0395f",
+    "wof:geomhash":"e090b292ff8f15b8a1307c1f623bef6f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -85,5 +85,5 @@
     -3.58902,
     33.40114000000001
 ],
-  "geometry": {"coordinates":[-3.58902,33.40114000000001],"type":"Point"}
+  "geometry": {"coordinates":[-3.58902,33.40114],"type":"Point"}
 }

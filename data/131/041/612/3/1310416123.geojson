@@ -93,7 +93,7 @@
         "wk:page":"Ajdir"
     },
     "wof:country":"MA",
-    "wof:geomhash":"6d7c7b654e861b8c47b520c992a128e7",
+    "wof:geomhash":"5f07d1cfd21563dbfbf3d4790f99c0cc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,5 +119,5 @@
     -3.91166,
     35.19537000000001
 ],
-  "geometry": {"coordinates":[-3.91166,35.19537000000001],"type":"Point"}
+  "geometry": {"coordinates":[-3.91166,35.19537],"type":"Point"}
 }

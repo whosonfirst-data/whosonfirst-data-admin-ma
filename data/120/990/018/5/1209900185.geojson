@@ -59,7 +59,7 @@
         "wk:page":"Aoulouz"
     },
     "wof:country":"MA",
-    "wof:geomhash":"410988696c7ff60a2cb1cafa12a6a706",
+    "wof:geomhash":"31e5ba7e55fe3a05e36d1855be824e81",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -85,5 +85,5 @@
     -8.18087,
     30.67307000000001
 ],
-  "geometry": {"coordinates":[-8.18087,30.67307000000001],"type":"Point"}
+  "geometry": {"coordinates":[-8.18087,30.67307],"type":"Point"}
 }

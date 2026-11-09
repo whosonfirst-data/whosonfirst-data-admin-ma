@@ -57,7 +57,7 @@
         "wk:page":"Tiffert_N%27Ait_Hamza"
     },
     "wof:country":"MA",
-    "wof:geomhash":"59dc36c88e5d0ba47e7afb678e0aabad",
+    "wof:geomhash":"77762d3b676dcd6cb9c836e05641d417",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -83,5 +83,5 @@
     -5.96454,
     32.31854000000001
 ],
-  "geometry": {"coordinates":[-5.96454,32.31854000000001],"type":"Point"}
+  "geometry": {"coordinates":[-5.96454,32.31854],"type":"Point"}
 }

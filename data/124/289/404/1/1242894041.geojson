@@ -41,7 +41,7 @@
         "gn:id":10962781
     },
     "wof:country":"MA",
-    "wof:geomhash":"76aa39b2361c20307dce9280122b3e5c",
+    "wof:geomhash":"35f02b6133ca934bfd9340a991e37cac",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,5 +67,5 @@
     -9.55901,
     31.78944000000001
 ],
-  "geometry": {"coordinates":[-9.55901,31.78944000000001],"type":"Point"}
+  "geometry": {"coordinates":[-9.55901,31.78944],"type":"Point"}
 }

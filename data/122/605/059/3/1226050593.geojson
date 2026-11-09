@@ -63,7 +63,7 @@
         "wk:page":"Boudinar"
     },
     "wof:country":"MA",
-    "wof:geomhash":"465d483944ed1ebbafcf52fc345f2ecc",
+    "wof:geomhash":"5890511f9f2876cfc3dffbabbb1b81db",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -89,5 +89,5 @@
     -3.62358,
     35.15600999999999
 ],
-  "geometry": {"coordinates":[-3.62358,35.15600999999999],"type":"Point"}
+  "geometry": {"coordinates":[-3.62358,35.15601],"type":"Point"}
 }

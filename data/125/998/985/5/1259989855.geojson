@@ -63,7 +63,7 @@
         "wk:page":"Chbanate"
     },
     "wof:country":"MA",
-    "wof:geomhash":"46115b28bd517f313e0ecf8dffe9936e",
+    "wof:geomhash":"7765b5794aca274aca5aa0583376dac9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,5 +96,5 @@
     -5.3508,
     34.21400999999999
 ],
-  "geometry": {"coordinates":[-5.3508,34.21400999999999],"type":"Point"}
+  "geometry": {"coordinates":[-5.3508,34.21401],"type":"Point"}
 }

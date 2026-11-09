@@ -57,7 +57,7 @@
         "wk:page":"Ouislane"
     },
     "wof:country":"MA",
-    "wof:geomhash":"3bdb5a1c7d69c85fae160b47a0c55e5a",
+    "wof:geomhash":"37e87ce0df4ea0df46e3c642f90a99f4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -83,5 +83,5 @@
     -8.38006,
     30.22497000000001
 ],
-  "geometry": {"coordinates":[-8.38006,30.22497000000001],"type":"Point"}
+  "geometry": {"coordinates":[-8.38006,30.22497],"type":"Point"}
 }
