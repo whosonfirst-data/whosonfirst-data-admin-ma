@@ -78,7 +78,7 @@
     "wof:belongsto":[
         102191573,
         85632693,
-        890434661,
+        421182347,
         890442533,
         1796661359
     ],
@@ -98,7 +98,7 @@
             "continent_id":102191573,
             "country_id":85632693,
             "county_id":890442533,
-            "locality_id":890434661,
+            "locality_id":421182347,
             "neighbourhood_id":421166773,
             "region_id":1796661359
         }
@@ -106,7 +106,7 @@
     "wof:id":421166773,
     "wof:lastmodified":1669161801,
     "wof:name":"Ain Sebaa",
-    "wof:parent_id":890434661,
+    "wof:parent_id":421182347,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ma",
     "wof:superseded_by":[],
